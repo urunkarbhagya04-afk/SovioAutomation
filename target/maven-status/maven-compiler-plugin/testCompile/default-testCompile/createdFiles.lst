@@ -1,0 +1,8 @@
+tests\RegisterTest.class
+Base\BaseTest.class
+pages\LoginPage.class
+tests\PasskeyLoginTest.class
+pages\DashboardPage.class
+pages\RegistrationPage.class
+tests\PasskeyRegistrationTest.class
+tests\LoginTest.class
